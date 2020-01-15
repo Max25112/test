@@ -1,0 +1,29 @@
+{
+  "name": "nodepad",
+  "description": "A notepad written with Node",
+  "version": "0.0.1",
+  "homepage": "http://dailyjs.com",
+  "author": "Alex R. Young (http://alexyoung.org)",
+  "directories": {},
+  "engines": {
+    "node": ">= 0.2.0"
+  },
+  "dependencies": {
+    "connect": "0.5.1",
+    "connect-mongodb": "^0.1.1",
+    "dnode": "^1.2.2",
+    "express": "^1.0.0",
+    "hiredis": "^0.5.0",
+    "jade": "0.6.0",
+    "lazy": "^1.0.11",
+    "markdown": "0.2.0",
+    "mongoose": "0.0.4",
+    "ntwitter": "^0.5.0",
+    "read": "^1.0.7",
+    "redis": "^2.8.0",
+    "request": "^2.88.0",
+    "require": "^2.4.20",
+    "semver": "^7.1.1",
+    "socket.io": "^2.3.0"
+  }
+}
